@@ -1,0 +1,9 @@
+DATA TYPES,VARIABLES
+int,model_year
+string,brand
+string,model
+string,type
+int,miles_per_gallon
+bool,premium_version
+int,msrp
+bool,collection_car
